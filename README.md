@@ -1,4 +1,4 @@
-![logo](https://github.com/shubhi221199/shubhi221199/blob/main/git-programmer.jpg)
+
 
 <h1 align="center">Hi 👋, I'm shubhi sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
