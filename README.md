@@ -20,13 +20,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shubhisharma4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhisharma4u" height="30" width="40" /></a>
+  
 <a href="https://linkedin.com/in/shubhi sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhi sharma" height="30" width="40" /></a>
-<a href="https://codesandbox.com/shubhi221199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shubhi221199" height="30" width="40" /></a>
-<a href="https://fb.com/shubhi sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shubhi sharma" height="30" width="40" /></a>
+  
+
 <a href="https://instagram.com/___shubhiiiiiii___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___shubhiiiiiii___" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shubhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shubhi2211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhi2211" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/shubhishubhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="shubhishubhi" height="30" width="40" /></a>
+  
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
