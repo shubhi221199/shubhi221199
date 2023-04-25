@@ -1,7 +1,8 @@
 
 
 <h1 align="center">Hi 👋, I'm shubhi </h1>
-<h3 align="center">A skilled and self-motivated MERN Stack developer, I always eager to learn and adapt to new technologies and best practices in web development. I have a solid understanding of frontend technologies such as HTML, CSS, and JavaScript, and have developed dynamic and interactive user interfaces using popular libraries and frameworks like React and Redux. I am a team player with good communication skills, and  I am excited to contribute my skills and passion to create innovative and scalable web applications as a MERN stack and frontend developer.</h3>
+<h3 align="center">
+A skilled and self-motivated MERN Stack developer, I am always eager to learn and adapt to new technologies and best practices in web development. I have a solid understanding of frontend technologies such as HTML, CSS, and JavaScript, and I have developed dynamic and interactive user interfaces using popular libraries and frameworks like React and Redux. I am a team player with good communication skills, and I am excited to contribute my skills and passion for creating innovative and scalable web applications as a MERN stack and front-end developer.</h3>
 
 <img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
