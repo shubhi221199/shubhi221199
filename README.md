@@ -1,18 +1,16 @@
 
 
 <h1 align="center">Hi 👋, I'm shubhi </h1>
-<h3 align="center">
-A skilled and self-motivated MERN Stack developer, I am always eager to learn and adapt to new technologies and best practices in web development. I have a solid understanding of frontend technologies such as HTML, CSS, and JavaScript, and I have developed dynamic and interactive user interfaces using popular libraries and frameworks like React and Redux. I am a team player with good communication skills, and I am excited to contribute my skills and passion for creating innovative and scalable web applications as a MERN stack and front-end developer.</h3>
+<h4 align="center">
+A skilled and self-motivated MERN Stack developer, I am always eager to learn and adapt to new technologies and best practices in web development. I have a solid understanding of frontend technologies such as HTML, CSS, and JavaScript, and I have developed dynamic and interactive user interfaces using popular libraries and frameworks like React and Redux. I am a team player with good communication skills, and I am excited to contribute my skills and passion for creating innovative and scalable web applications as a MERN stack and front-end developer.</h4>
 
-<img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img align="right" alt="coding" width="400px" border-radius="100%' src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhi221199&label=Profile%20views&color=0e75b6&style=flat" alt="shubhi221199" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shubhisharma4u" target="blank"><img src="https://img.shields.io/twitter/follow/shubhisharma4u?logo=twitter&style=for-the-badge" alt="shubhisharma4u" /></a> </p>
 
 - 🌱 I’m currently learning **React , redux.**
-
-- 👨‍💻 All of my projects are available at [https://dancing-yeot-10d600.netlify.app/](https://dancing-yeot-10d600.netlify.app/)
 
 - 📫 How to reach me **shubhisharma4u@gmail.com**
 
@@ -42,8 +40,10 @@ A skilled and self-motivated MERN Stack developer, I am always eager to learn an
 ## 📊 Github Stats
 <div align="center" style="display: flex; flex-wrap: nowrap;">
    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhi221199&show_icons=true&locale=en&layout=compact" alt="shubhi221199" />
+   
     <img width="42.4%" src="http://github-readme-streak-stats.herokuapp.com?user=shubhi221199&show_icons=true&locale=en&layout=compact"  alt="Shubhi-sharma" />
     
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhi221199&show_icons=true&locale=en&layout=compact" alt="shubhi221199" /></p>
 </div>
 
 ## 🏆 Trophies:
@@ -66,9 +66,7 @@ A skilled and self-motivated MERN Stack developer, I am always eager to learn an
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhi221199&show_icons=true&locale=en&layout=compact" alt="shubhi221199" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhi221199&show_icons=true&locale=en" alt="shubhi221199" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhi221199&" alt="shubhi221199" /></p>
+
 
