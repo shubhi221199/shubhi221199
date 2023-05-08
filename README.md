@@ -41,14 +41,14 @@ A skilled and self-motivated MERN Stack developer, I am always eager to learn an
 
 ## 📊 Github Stats
 <div align="center" style="display: flex; flex-wrap: nowrap;">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Vishalll069&count_private=true&show_icons=true&theme=onedark" alt="Vishal-Durge" />
-    <img width="42.4%" src="http://github-readme-streak-stats.herokuapp.com?user=vishalll069&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" alt="Vishal-Durge" />
+   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhi221199&show_icons=true&locale=en&layout=compact" alt="shubhi221199" />
+    <img width="42.4%" src="http://github-readme-streak-stats.herokuapp.com?user=shubhi221199&show_icons=true&locale=en&layout=compact"  alt="Shubhi-sharma" />
     
 </div>
 
 ## 🏆 Trophies:
 <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalll069&theme=onedark" alt="vishalll069" /></a> </p>
+<p align="center"><a align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhi221199&show_icons=true&locale=en&layout=compact" alt="shubhi221199" /> </p>
 
 ## TECH STACK :
 
