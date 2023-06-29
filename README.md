@@ -54,10 +54,10 @@
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)]
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 
-# [Portfolio](https://my-portfolio-kappa-sandy.vercel.app/)
+# [Portfolio](https://shubhi221199.github.io/)
 
 
 
