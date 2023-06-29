@@ -1,8 +1,6 @@
 
  <h1 align="center">Hi 👋, I'm shubhi sharma</h1>
  <br/>
- ## ❤ Views and Followers
-
 <a href="https://github.com/shubhi221199/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=shubhi221199">
 </a>
