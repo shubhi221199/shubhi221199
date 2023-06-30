@@ -1,10 +1,11 @@
 
  <h1 align="center">Hi 👋, I'm shubhi sharma</h1>
- <br/>
-<a href="https://github.com/shubhi221199/github-profile-views-counter">
+ <a href="https://github.com/shubhi221199/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=shubhi221199">
 </a>
 <a href="https://github.com/shubhi221199?tab=followers"><img src="https://img.shields.io/github/followers/shubhi221199?label=Followers&style=social" alt="GitHub Badge"></a>
+ <br/>
+
     <h4 align="center">
       A skilled and self-motivated MERN Stack developer, I have developed
       dynamic and interactive user interfaces using popular libraries and
