@@ -3,7 +3,7 @@
  <a href="https://github.com/shubhi221199/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=shubhi221199">
 </a>
-<!-- <a href="https://github.com/shubhi221199?tab=followers"><img src="https://img.shields.io/github/followers/shubhi221199?label=Followers&style=social" alt="GitHub Badge"></a> -->
+
 
  <br/>
     <h4 align="center">
