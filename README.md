@@ -24,7 +24,7 @@
     
 </div>
 
-## 🏆 Trophies:
+## 🏆 Trophies :
 <br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhi221199&theme=radical&hide_border=true" alt="shubhi221199" /></a> </p>
 
